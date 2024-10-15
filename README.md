@@ -21,7 +21,7 @@ I contributed to this project as a junior data engineer for a fictional company 
 To collect data from external sources that can potentially help Gans to anticipate as much as possible e-scooter movements.
 
 
-## Project Overview
+## Project_Overview
 
 Gans is a startup developing an e-scooter-sharing system. It aspires to operate in the most populour cities in Germany. With the help of Data Engineering techniques such as Web scraping, APIs, MySQL databases, and Creation od data pipeline on cloud, GANS hopes that they can make a strategy for movement of e-scooters efficiently.
 
