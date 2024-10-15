@@ -12,8 +12,9 @@ I contributed to this project as a junior data engineer for a fictional company 
 - [Challenges](#challenges)
 - [Tasks](#tasks)
 - [Deliverables](#deliverables)
-- [Skills & Tools](#skill_stools)
+- [Skills & Tools](#skills_&_tools)
 - [Data Files](#data_files)
+- [Lessons_Learned](#lessons_learned)
 
 
 ## Objective
@@ -46,7 +47,7 @@ Assemble and automate a data pipeline in the cloud.
 Preparation of an article on Medium which shows insights from the project, challenges, and solutions encountered throughout the project.
 
 
-## Skills & Tools
+## Skills_&_Tools
 
 - Web scraping (Using BeautifulSoup)
 - APIs
@@ -55,7 +56,7 @@ Preparation of an article on Medium which shows insights from the project, chall
 - Google Cloud Platform
   
 
-## Data Files
+## Data_Files
 
 - Cleaned notebooks of Cities, Population, Weather, Flights and Airports.
 - Data Script file for creation of database in SQL.
@@ -63,10 +64,10 @@ Preparation of an article on Medium which shows insights from the project, chall
 - Database Schema to get an idea about data table creation & connectivity.
 
 
-## Lessons Learned
+## Lessons_Learned
 
-1. The number os scotters is connected to the population number, but also the terrain of the cities may affect e-scooter's use.
-2. Take into the consideration that bad weather will impact the use of e-scooters.
-3. Holidays, Special events will also affect the use of e-scooters.
+- The number os scotters is connected to the population number, but also the terrain of the cities may affect e-scooter's use.
+- Take into the consideration that bad weather will impact the use of e-scooters.
+- Holidays, Special events will also affect the use of e-scooters.
 
 Medium Article.(https://medium.com/@alexalbieri/data-driven-mobility-automating-data-capture-with-a-cloud-based-pipeline-d6ace52a38d3)
