@@ -66,7 +66,7 @@ Preparation of an article on Medium which shows insights from the project, chall
 
 ## Lessons_Learned
 
-- The number os scotters is connected to the population number, but also the terrain of the cities may affect e-scooter's use.
+- The number os scotters is connected to the population number, but also the cities terrain may affect the e-scooter's demand.
 - Take into the consideration that bad weather will impact the use of e-scooters.
 - Holidays, Special events will also affect the use of e-scooters.
 
