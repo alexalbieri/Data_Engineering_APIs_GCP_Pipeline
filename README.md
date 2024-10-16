@@ -73,4 +73,4 @@ Preparation of an article on Medium which shows insights from the project, chall
 - Take into the consideration that bad weather will impact the use of e-scooters.
 - Holidays, Special events will also affect the use of e-scooters.
 
-Medium Article:(https://medium.com/@alexalbieri/data-driven-mobility-automating-data-capture-with-a-cloud-based-pipeline-d6ace52a38d3)
+[Medium Article](https://medium.com/@alexalbieri/data-driven-mobility-automating-data-capture-with-a-cloud-based-pipeline-d6ace52a38d3)
