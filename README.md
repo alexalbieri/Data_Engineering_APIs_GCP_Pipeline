@@ -12,14 +12,14 @@ I contributed to this project as a junior data engineer for a fictional company 
 - [Challenges](#challenges)
 - [Tasks](#tasks)
 - [Deliverables](#deliverables)
-- [Skills & Tools](#skills_&_tools)
+- [Languages_&_Libraries](#languages_&_libraries)
 - [Data Files](#data_files)
 - [Lessons_Learned](#lessons_learned)
 
 
 ## Objective
 
-To collect data from external sources that can potentially help Gans to anticipate as much as possible e-scooter movements.
+To collect data from external sources that can potentially help Gans to anticipate as much as possible e-scooter demand.
 
 
 ## Project_Overview
@@ -36,7 +36,7 @@ Assemble and automate a data pipeline in the cloud.
 ## Tasks
 
 - Perform web scrapping by using programs or scripts to crawl websites, interpret HTML code, and extract specific information about cities(population,latitude,longitude,etc.)
-- Use API to collect Weather & Flights data of the cities.
+- Use API to collect Weather & Flights data of the cities (later I used APIs to all data).
 - Build a database using MySQL to store the collected information & use it as a backbone of data acquisition.
 - Build a local pipeline from above data sources.
 - Using Cloud MySQL create a database on cloud then using Cloud Functions & Scheduler automate the pipeline in the cloud.
@@ -47,10 +47,11 @@ Assemble and automate a data pipeline in the cloud.
 Preparation of an article on Medium which shows insights from the project, challenges, and solutions encountered throughout the project.
 
 
-## Skills_&_Tools
+## Languages_&_Libraries
 
 - Web scraping (Using BeautifulSoup)
 - APIs
+- Python libraries (pandas, requests, lat_lon_parser, datetime, dateutil)
 - Jupyter
 - MySQL (SQLAlchemy for interaction between MySql & Python)
 - Google Cloud Platform
@@ -60,12 +61,14 @@ Preparation of an article on Medium which shows insights from the project, chall
 
 - Cleaned notebooks of Cities, Population, Weather, Flights and Airports.
 - Data Script file for creation of database in SQL.
-- Weather and Flights Function notebooks to automate in cloud.
+- Weather and Flights Function notebooks to automate in the cloud.
 - Database Schema to get an idea about data table creation & connectivity.
 
 
 ## Lessons_Learned
 
+- APIs are much more stable and reliable than webscrapping.
+- Attention to the details are necessary to set up a database on the cloud.
 - The number os scotters is connected to the population number, but also the cities terrain may affect the e-scooter's demand.
 - Take into the consideration that bad weather will impact the use of e-scooters.
 - Holidays, Special events will also affect the use of e-scooters.
