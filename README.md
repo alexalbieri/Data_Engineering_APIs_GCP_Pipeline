@@ -1,7 +1,7 @@
 # Data Engineering: APIs & creation of Data Pipeline on Google Cloud Platform(GCP)
 
 
-#### DataScience Bootcamp Project 4 : WBS Coding School
+#### DataScience Bootcamp Project: WBS Coding School - Gans Project
 
 I contributed to this project as a junior data engineer for a fictional company called Gans, a startup focused on e-scooter sharing. I will work on data extraction with external sources, clean & transform it into databse and load it on cloud data pipeline. 
 
