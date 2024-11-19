@@ -29,8 +29,8 @@ Gans is a startup developing an e-scooter-sharing system. It aspires to operate 
 
 ## Challenges
 
-Collect data, transform it and store it into a database.
-Assemble and automate a data pipeline in the cloud.
+- Collect data, transform it and store it into a database.
+- Assemble and automate a data pipeline in the cloud.
 
 
 ## Tasks
